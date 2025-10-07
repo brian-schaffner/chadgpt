@@ -1,0 +1,16 @@
+node_modules
+.next
+*.log
+*.wav
+*.mp4
+*.m4a
+*.mp3
+videos/
+ChadClips/
+wavs/
+new wavs/
+training_data/
+models/
+tts_env/
+*.dylib
+*.node
